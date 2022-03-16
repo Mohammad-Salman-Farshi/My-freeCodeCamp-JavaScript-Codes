@@ -1,0 +1,2 @@
+var myFirstName = "My first name is Mohammad "
+var myLastName = "My last name is Salman"
