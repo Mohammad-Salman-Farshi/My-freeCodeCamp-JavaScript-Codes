@@ -1,0 +1,6 @@
+// Assalamualaikum, My name is Mohammad Salman //
+
+
+/* Today I am going to solve the code of
+javascript in freecodecamp.
+Freecodecamp is a good website for solve js */
