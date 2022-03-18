@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = [["Mohammad Salman",201-15-14165],["salman",201-15-14165]];
